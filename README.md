@@ -1,6 +1,5 @@
 ## Hi there, I'm [Diqi](https://nurmuhamadas.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-<br />
 <div align="center">
 <h3>💻 Full Stack Web Developer | 🌈 UI/UX Design Entusiast | <img src="https://images.emojiterra.com/twitter/512px/1f1ee-1f1e9.png" height="25px" /> Indonesian</h3>
 </div>
