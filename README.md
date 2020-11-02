@@ -4,6 +4,7 @@
 <h3>💻 Full Stack Web Developer | 🌈 UI/UX Design Entusiast | <img src="https://images.emojiterra.com/twitter/512px/1f1ee-1f1e9.png" height="25px" /> Indonesian</h3>
 </div>
 <br />
+
 Hi, I'm [Nur Muhamad Ash Shidiqi](https://blog.abhisheknaidu.tech/), a Self-taught Full Stack Web Developer  from <img src="https://images.emojiterra.com/twitter/512px/1f1ee-1f1e9.png" height="16px" /> Indonesia. Currently, I'm developing products that are useful for a others, creating and contributing to open-source projects, and learning and growing my skillset in web development. 
 
 ## ✍️ I'm a Student, Blogger, and Self-taught Developer!
