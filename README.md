@@ -24,7 +24,16 @@ Hi, I'm [Nur Muhamad Ash Shidiqi](https://nurmuhamadas.me/), a Self-taught Full 
 > Messaging app with group chats, notifications, and a sleek user interface.  
 > **Tech Stack**: Next JS, Hono, Prisma, PostgreSQL
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurmuhamadas&repo=next-chat)](https://github.com/anuraghazra/github-readme-stats)
+
 [View App](https://app-next-chat.vercel.app) ✈️ | [View Repo](https://github.com/nurmuhamadas/next-chat) 🎮
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurmuhamadas&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhamadas&layout=donut-vertical&theme=dracula)
 
 ---
 
@@ -73,13 +82,6 @@ Hi, I'm [Nur Muhamad Ash Shidiqi](https://nurmuhamadas.me/), a Self-taught Full 
   <img height="30px" alt="ESlint" src="https://img.shields.io/badge/-ESlint-4B32C3?style=flat-square&logo=ESlint&logoColor=white" />
   <img height="30px" alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
 </p>
-
-<!-- ---
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)   -->
 
 ---
 
