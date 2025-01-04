@@ -24,18 +24,18 @@ Hi, I'm [Nur Muhamad Ash Shidiqi](https://nurmuhamadas.me/), a Self-taught Full 
 > Messaging app with group chats, notifications, and a sleek user interface.  
 > **Tech Stack**: Next JS, Hono, Prisma, PostgreSQL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurmuhamadas&repo=next-chat)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nurmuhamadas&repo=next-chat)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [View App](https://app-next-chat.vercel.app) ✈️ | [View Repo](https://github.com/nurmuhamadas/next-chat) 🎮
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurmuhamadas&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhamadas&layout=donut-vertical&theme=dracula)
 
----
+--- -->
 
 ## 🧰 Languages and Tools:
 
