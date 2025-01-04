@@ -5,7 +5,7 @@
 </div>
 <br />
 
-Hi, I'm [Nur Muhamad Ash Shidiqi](https://blog.abhisheknaidu.tech/), a Self-taught Full Stack Web Developer from <img src="https://images.emojiterra.com/twitter/512px/1f1ee-1f1e9.png" height="16px" /> Indonesia. I'm passionate about building scalable, responsive, and user friendly web applications and solving real-world problems through code.
+Hi, I'm [Nur Muhamad Ash Shidiqi](https://nurmuhamadas.me/), a Self-taught Full Stack Web Developer from <img src="https://images.emojiterra.com/twitter/512px/1f1ee-1f1e9.png" height="16px" /> Indonesia. I'm passionate about building scalable, responsive, and user friendly web applications and solving real-world problems through code.
 
 ## ✍️ I'm a Blogger, and Self-taught Developer!
 
